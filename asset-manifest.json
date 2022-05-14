@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/%7BMemeGenerator%7D/static/css/main.35fb270b.css",
+    "main.js": "/%7BMemeGenerator%7D/static/js/main.38ff52e0.js",
+    "index.html": "/%7BMemeGenerator%7D/index.html",
+    "main.35fb270b.css.map": "/%7BMemeGenerator%7D/static/css/main.35fb270b.css.map",
+    "main.38ff52e0.js.map": "/%7BMemeGenerator%7D/static/js/main.38ff52e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35fb270b.css",
+    "static/js/main.38ff52e0.js"
+  ]
+}
